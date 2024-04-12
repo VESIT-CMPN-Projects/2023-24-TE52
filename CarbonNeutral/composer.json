@@ -1,0 +1,17 @@
+{
+    "name": "neha/carbon-neutral",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Neha\\CarbonNeutral\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Neha Lotwani",
+            "email": "lotwanineha10@gmail.com"
+        }
+    ]
+}
